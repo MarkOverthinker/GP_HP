@@ -1,0 +1,174 @@
+gamma = [2e-5, 2e-4, 2e-3, 2e-2, 2e-1, 1, 2, 20, 200]
+C = [1e-3, 1e-2, 1e-1, 1.0, 10.0, 100.0]
+
+Outer Loop:   0%|          | 0/9 [01:21<?, ?it/s]
+finish one param part, c = 0.001, gamma = 2e-05, score = 0.5451471344558485
+                                                 
+Outer Loop:   0%|          | 0/9 [02:43<?, ?it/s]        
+finish one param part, c = 0.01, gamma = 2e-05, score = 0.5451471344558485
+                                                 
+Outer Loop:   0%|          | 0/9 [04:01<?, ?it/s]        
+finish one param part, c = 0.1, gamma = 2e-05, score = 0.6815755915338545
+                                                 
+Outer Loop:   0%|          | 0/9 [05:12<?, ?it/s]        
+finish one param part, c = 1.0, gamma = 2e-05, score = 0.7238044312742222
+                                                 
+Outer Loop:   0%|          | 0/9 [06:19<?, ?it/s]        
+finish one param part, c = 10.0, gamma = 2e-05, score = 0.726380823586105
+                                                 
+Inner Loop: 100%|██████████| 6/6 [07:27<00:00, 74.64s/it]
+Outer Loop:  11%|█         | 1/9 [07:27<59:42, 447.85s/it]
+finish one param part, c = 100.0, gamma = 2e-05, score = 0.7257367903222199
+                                                          
+Outer Loop:  11%|█         | 1/9 [08:49<59:42, 447.85s/it]
+finish one param part, c = 0.001, gamma = 0.0002, score = 0.5451471344558485
+                                                          
+Outer Loop:  11%|█         | 1/9 [10:07<59:42, 447.85s/it]
+finish one param part, c = 0.01, gamma = 0.0002, score = 0.6818976041149167
+                                                          
+Outer Loop:  11%|█         | 1/9 [11:17<59:42, 447.85s/it]
+finish one param part, c = 0.1, gamma = 0.0002, score = 0.724327756405333
+                                                          
+Outer Loop:  11%|█         | 1/9 [12:23<59:42, 447.85s/it]
+finish one param part, c = 1.0, gamma = 0.0002, score = 0.7254952606320216
+                                                          
+Outer Loop:  11%|█         | 1/9 [13:30<59:42, 447.85s/it]
+finish one param part, c = 10.0, gamma = 0.0002, score = 0.7223955107819853
+                                                          
+Inner Loop: 100%|██████████| 6/6 [07:17<00:00, 72.98s/it]]
+Outer Loop:  22%|██▏       | 2/9 [14:45<51:33, 441.98s/it]
+finish one param part, c = 100.0, gamma = 0.0002, score = 0.7242069672549517
+                                                          
+Outer Loop:  22%|██▏       | 2/9 [16:05<51:33, 441.98s/it]
+finish one param part, c = 0.001, gamma = 0.002, score = 0.6744095598831921
+                                                          
+Outer Loop:  22%|██▏       | 2/9 [17:14<51:33, 441.98s/it]
+finish one param part, c = 0.01, gamma = 0.002, score = 0.7229588991197924
+                                                          
+Outer Loop:  22%|██▏       | 2/9 [18:19<51:33, 441.98s/it]
+finish one param part, c = 0.1, gamma = 0.002, score = 0.7260989228223036
+                                                          
+Outer Loop:  22%|██▏       | 2/9 [19:23<51:33, 441.98s/it]
+finish one param part, c = 1.0, gamma = 0.002, score = 0.7269442686362371
+                                                          
+Outer Loop:  22%|██▏       | 2/9 [20:33<51:33, 441.98s/it]
+finish one param part, c = 10.0, gamma = 0.002, score = 0.7282322703499216
+                                                          
+Inner Loop: 100%|██████████| 6/6 [07:27<00:00, 74.63s/it]]
+Outer Loop:  33%|███▎      | 3/9 [22:13<44:27, 444.64s/it]
+finish one param part, c = 100.0, gamma = 0.002, score = 0.7303254898567576
+                                                          
+Outer Loop:  33%|███▎      | 3/9 [23:33<44:27, 444.64s/it]
+finish one param part, c = 0.001, gamma = 0.02, score = 0.7233207561600118
+                                                          
+Outer Loop:  33%|███▎      | 3/9 [24:41<44:27, 444.64s/it]
+finish one param part, c = 0.01, gamma = 0.02, score = 0.7279904327928162
+                                                          
+Outer Loop:  33%|███▎      | 3/9 [25:45<44:27, 444.64s/it]
+finish one param part, c = 0.1, gamma = 0.02, score = 0.7307679999248157
+                                                          
+Outer Loop:  33%|███▎      | 3/9 [26:52<44:27, 444.64s/it]
+finish one param part, c = 1.0, gamma = 0.02, score = 0.7344715496950659
+                                                          
+Outer Loop:  33%|███▎      | 3/9 [28:29<44:27, 444.64s/it]
+finish one param part, c = 10.0, gamma = 0.02, score = 0.7343104461834064
+                                                          
+Inner Loop: 100%|██████████| 6/6 [11:12<00:00, 112.04s/it]
+Outer Loop:  44%|████▍     | 4/9 [33:25<44:32, 534.49s/it]
+finish one param part, c = 100.0, gamma = 0.02, score = 0.7341492940611826
+                                                          
+Outer Loop:  44%|████▍     | 4/9 [34:52<44:32, 534.49s/it]
+finish one param part, c = 0.001, gamma = 0.2, score = 0.5451471344558485
+                                                          
+Outer Loop:  44%|████▍     | 4/9 [36:15<44:32, 534.49s/it]
+finish one param part, c = 0.01, gamma = 0.2, score = 0.7070567307969637
+                                                          
+Outer Loop:  44%|████▍     | 4/9 [37:28<44:32, 534.49s/it]
+finish one param part, c = 0.1, gamma = 0.2, score = 0.7193346817903855
+                                                          
+Outer Loop:  44%|████▍     | 4/9 [39:15<44:32, 534.49s/it]
+finish one param part, c = 1.0, gamma = 0.2, score = 0.7452591331958627
+                                                          
+Outer Loop:  44%|████▍     | 4/9 [42:30<44:32, 534.49s/it]
+finish one param part, c = 10.0, gamma = 0.2, score = 0.7553225327140994
+                                                          
+Inner Loop: 100%|██████████| 6/6 [18:08<00:00, 181.50s/it]
+Outer Loop:  56%|█████▌    | 5/9 [51:34<48:57, 734.44s/it]
+finish one param part, c = 100.0, gamma = 0.2, score = 0.7639365596488892
+                                                          
+Outer Loop:  56%|█████▌    | 5/9 [52:59<48:57, 734.44s/it]
+finish one param part, c = 0.001, gamma = 1, score = 0.5451471344558485
+                                                          
+Outer Loop:  56%|█████▌    | 5/9 [54:26<48:57, 734.44s/it]
+finish one param part, c = 0.01, gamma = 1, score = 0.5451471344558485
+                                                          
+Outer Loop:  56%|█████▌    | 5/9 [55:51<48:57, 734.44s/it]
+finish one param part, c = 0.1, gamma = 1, score = 0.6135840844475686
+                                                          
+Outer Loop:  56%|█████▌    | 5/9 [58:51<48:57, 734.44s/it]
+finish one param part, c = 1.0, gamma = 1, score = 0.7846273951640266
+                                                          
+Outer Loop:  56%|█████▌    | 5/9 [1:02:51<48:57, 734.44s/it]
+finish one param part, c = 10.0, gamma = 1, score = 0.7961398837040861
+                                                            
+Inner Loop: 100%|██████████| 6/6 [16:56<00:00, 169.46s/it]t]
+Outer Loop:  67%|██████▋   | 6/9 [1:08:31<41:31, 830.44s/it]
+finish one param part, c = 100.0, gamma = 1, score = 0.8031040113761682
+                                                            
+Outer Loop:  67%|██████▋   | 6/9 [1:10:02<41:31, 830.44s/it]
+finish one param part, c = 0.001, gamma = 2, score = 0.5451471344558485
+                                                            
+Outer Loop:  67%|██████▋   | 6/9 [1:11:37<41:31, 830.44s/it]
+finish one param part, c = 0.01, gamma = 2, score = 0.5451471344558485
+                                                            
+Outer Loop:  67%|██████▋   | 6/9 [1:13:12<41:31, 830.44s/it]
+finish one param part, c = 0.1, gamma = 2, score = 0.5558958051999692
+                                                            
+Outer Loop:  67%|██████▋   | 6/9 [1:16:34<41:31, 830.44s/it]
+finish one param part, c = 1.0, gamma = 2, score = 0.7969445829845525
+                                                            
+Outer Loop:  67%|██████▋   | 6/9 [1:21:58<41:31, 830.44s/it]
+finish one param part, c = 10.0, gamma = 2, score = 0.8068875660334005
+                                                            
+Inner Loop: 100%|██████████| 6/6 [19:55<00:00, 199.30s/it]t]
+Outer Loop:  78%|███████▊  | 7/9 [1:28:27<31:39, 949.88s/it]
+finish one param part, c = 100.0, gamma = 2, score = 0.8106313653508435
+                                                            
+Outer Loop:  78%|███████▊  | 7/9 [1:30:50<31:39, 949.88s/it]
+finish one param part, c = 0.001, gamma = 20, score = 0.5451471344558485
+                                                            
+Outer Loop:  78%|███████▊  | 7/9 [1:33:10<31:39, 949.88s/it]
+finish one param part, c = 0.01, gamma = 20, score = 0.5451471344558485
+                                                            
+Outer Loop:  78%|███████▊  | 7/9 [1:36:29<31:39, 949.88s/it]
+finish one param part, c = 0.1, gamma = 20, score = 0.5451471344558485
+                                                            
+Outer Loop:  78%|███████▊  | 7/9 [1:42:31<31:39, 949.88s/it]
+finish one param part, c = 1.0, gamma = 20, score = 0.8103868461109442
+                                                            
+Outer Loop:  78%|███████▊  | 7/9 [1:48:04<31:39, 949.88s/it]
+finish one param part, c = 10.0, gamma = 20, score = 0.8097428128470592
+                                                            
+Inner Loop: 100%|██████████| 6/6 [24:42<00:00, 247.11s/it]t]
+Outer Loop:  89%|████████▉ | 8/9 [1:53:10<18:39, 1119.50s/it]
+finish one param part, c = 100.0, gamma = 20, score = 0.8097428128470592
+                                                             
+Outer Loop:  89%|████████▉ | 8/9 [1:54:37<18:39, 1119.50s/it]
+finish one param part, c = 0.001, gamma = 200, score = 0.5451471344558485
+                                                             
+Outer Loop:  89%|████████▉ | 8/9 [1:56:32<18:39, 1119.50s/it]
+finish one param part, c = 0.01, gamma = 200, score = 0.5451471344558485
+                                                             
+Outer Loop:  89%|████████▉ | 8/9 [1:58:42<18:39, 1119.50s/it]
+finish one param part, c = 0.1, gamma = 200, score = 0.5451471344558485
+                                                             
+Outer Loop:  89%|████████▉ | 8/9 [2:02:28<18:39, 1119.50s/it]
+finish one param part, c = 1.0, gamma = 200, score = 0.8146135589770911
+                                                             
+Outer Loop:  89%|████████▉ | 8/9 [2:07:11<18:39, 1119.50s/it]
+finish one param part, c = 10.0, gamma = 200, score = 0.8147343238221904
+                                                             
+Inner Loop: 100%|██████████| 6/6 [18:44<00:00, 187.45s/it]it]
+Outer Loop: 100%|██████████| 9/9 [2:11:54<00:00, 879.41s/it] 
+finish one param part, c = 100.0, gamma = 200, score = 0.8147343238221904
+best param: C = 10.0, gamma = 200, score = 0.8147343238221904
